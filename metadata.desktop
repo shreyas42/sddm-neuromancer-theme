@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=sddm-neuromancer-theme
+Description=sddm-neuromancer-theme
+Author=shreyas42
+Website=https://github.com/shreyas42/sddm-neuromancer-theme
+Type=sddm-theme
+Version=0.1
+ConfigFile=Themes/neuromancer.conf
+Screenshot=Previews/neuromancer.png
+MainScript=Main.qml
+TranslationsDirectory=translations
+Theme-Id=sddm-neuromancer-theme
+Theme-API=2.0
+QtVersion=6
